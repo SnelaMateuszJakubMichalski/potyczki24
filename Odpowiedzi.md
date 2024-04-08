@@ -571,6 +571,8 @@ kubectl create clusterrolebinding muhhamad-yussuff-edit \
 Zad. 12 
 
  
+zad13 
+![image](https://github.com/SnelaMateuszJakubMichalski/potyczki24/assets/166373287/ce7575dd-0f46-4744-a971-439a728e8df7)
 
  
 
