@@ -60,6 +60,7 @@ helm install tetris tetris-repo/tetris --namespace tetris
 Zad.4 
 
 Instalacja przez GUI Ranchera 
+zalogowanie sie do gui neuvectora 
 
  
 
