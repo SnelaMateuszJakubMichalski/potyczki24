@@ -715,11 +715,9 @@ spec:
              cpu: "100m" 
 
  
- 
- 
- 
- 
-
+ zad 18
+Problemem jest to ze została podana błędna architektura plików
+Zmiana container-image na rancher/hello-world
  
 
  
